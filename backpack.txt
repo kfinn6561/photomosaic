@@ -1,0 +1,7 @@
+input; backpack.jpg
+directory; photos
+nx; 50
+ny; 50
+smoothing; 4
+blow_up; 2
+single;true
